@@ -451,7 +451,7 @@ box-shadow:inset 1px 2px 1px rgba(0,0,0,0.2);
 <p class="views2">2.1k view &#183 5days ago</p>
 </div>
 </div>
-</div>
+      </div>
       </div>
     <div class="intro">
 <p class="text-title"> به سایت من خوش اومدین:)</p> 
